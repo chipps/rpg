@@ -86,7 +86,7 @@ A unique identifier which anonymously enumerates the person from whon the smartp
 
 An easy to read string which describes which activity the subject was engaged in when the measurement was recorded. Valid values are WALKING,WALKING UPSTAIRS,WALKING DOWNSTAIRS,SITTING,STANDING,LAYING
 
-* **timebodyaccelerationaverageX**
+* **timebodyaccelerationaveragex**
 
  Size: 12
 
@@ -96,7 +96,7 @@ An easy to read string which describes which activity the subject was engaged in
 
 Time Domain measurement of smartphone wearer's body's average acceleration in X direction 
 
-* **timebodyaccelerationaverageY**
+* **timebodyaccelerationaveragey**
 
  Size: 12
 
@@ -106,7 +106,7 @@ Time Domain measurement of smartphone wearer's body's average acceleration in X 
 
 Time Domain measurement of smartphone wearer's body's average acceleration in Y direction 
 
-* **timebodyaccelerationaverageZ**
+* **timebodyaccelerationaveragez**
 
  Size: 12
 
@@ -116,7 +116,7 @@ Time Domain measurement of smartphone wearer's body's average acceleration in Y 
 
 Time Domain measurement of smartphone wearer's body's average acceleration in Z direction 
 
-* **timebodyaccelerationstandarddeviationX**
+* **timebodyaccelerationstandarddeviationx**
 
  Size: 12
 
@@ -126,7 +126,7 @@ Time Domain measurement of smartphone wearer's body's average acceleration in Z 
 
 Time Domain measurement of smartphone wearer's body's standard deviation of acceleration in X direction 
 
-* **timebodyaccelerationstandarddeviationY**
+* **timebodyaccelerationstandarddeviationy**
 
  Size: 12
 
@@ -136,7 +136,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of acce
 
 Time Domain measurement of smartphone wearer's body's standard deviation of acceleration in Y direction 
 
-* **timebodyaccelerationstandarddeviationZ**
+* **timebodyaccelerationstandarddeviationz**
 
  Size: 12
 
@@ -146,7 +146,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of acce
 
 Time Domain measurement of smartphone wearer's body's standard deviation of acceleration in Z direction 
 
-* **timegravityaccelerationaverageX**
+* **timegravityaccelerationaveragex**
 
  Size: 12
 
@@ -156,7 +156,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of acce
 
 Time Domain measurement of gravity induced average acceleration in X direction 
 
-* **timegravityaccelerationaverageY**
+* **timegravityaccelerationaveragey**
 
  Size: 12
 
@@ -166,7 +166,7 @@ Time Domain measurement of gravity induced average acceleration in X direction
 
 Time Domain measurement of gravity induced average acceleration in Y direction 
 
-* **timegravityaccelerationaverageZ**
+* **timegravityaccelerationaveragez**
 
  Size: 12
 
@@ -176,7 +176,7 @@ Time Domain measurement of gravity induced average acceleration in Y direction
 
 Time Domain measurement of gravity induced average acceleration in Z direction 
 
-* **timegravityaccelerationstandarddeviationX**
+* **timegravityaccelerationstandarddeviationx**
 
  Size: 12
 
@@ -186,7 +186,7 @@ Time Domain measurement of gravity induced average acceleration in Z direction
 
 Time Domain measurement of gravity induced standard deviation of acceleration in X direction 
 
-* **timegravityaccelerationstandarddeviationY**
+* **timegravityaccelerationstandarddeviationy**
 
  Size: 12
 
@@ -196,7 +196,7 @@ Time Domain measurement of gravity induced standard deviation of acceleration in
 
 Time Domain measurement of gravity induced standard deviation of acceleration in Y direction 
 
-* **timegravityaccelerationstandarddeviationZ**
+* **timegravityaccelerationstandarddeviationz**
 
  Size: 12
 
@@ -206,7 +206,7 @@ Time Domain measurement of gravity induced standard deviation of acceleration in
 
 Time Domain measurement of gravity induced standard deviation of acceleration in Z direction 
 
-* **timebodyaccelerationjerkaverageX**
+* **timebodyaccelerationjerkaveragex**
 
  Size: 12
 
@@ -216,7 +216,7 @@ Time Domain measurement of gravity induced standard deviation of acceleration in
 
 Time Domain measurement of smartphone wearer's body's average jerky acceleration in X direction 
 
-* **timebodyaccelerationjerkaverageY**
+* **timebodyaccelerationjerkaveragey**
 
  Size: 12
 
@@ -226,7 +226,7 @@ Time Domain measurement of smartphone wearer's body's average jerky acceleration
 
 Time Domain measurement of smartphone wearer's body's average jerky acceleration in Y direction 
 
-* **timebodyaccelerationjerkaverageZ**
+* **timebodyaccelerationjerkaveragez**
 
  Size: 12
 
@@ -236,7 +236,7 @@ Time Domain measurement of smartphone wearer's body's average jerky acceleration
 
 Time Domain measurement of smartphone wearer's body's average jerky acceleration in Z direction 
 
-* **timebodyaccelerationjerkstandarddeviationX**
+* **timebodyaccelerationjerkstandarddeviationx**
 
  Size: 12
 
@@ -246,7 +246,7 @@ Time Domain measurement of smartphone wearer's body's average jerky acceleration
 
 Time Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in X direction 
 
-* **timebodyaccelerationjerkstandarddeviationY**
+* **timebodyaccelerationjerkstandarddeviationy**
 
  Size: 12
 
@@ -256,7 +256,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of jerk
 
 Time Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in Y direction 
 
-* **timebodyaccelerationjerkstandarddeviationZ**
+* **timebodyaccelerationjerkstandarddeviationz**
 
  Size: 12
 
@@ -266,7 +266,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of jerk
 
 Time Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in Z direction 
 
-* **timebodygyroscopeaverageX**
+* **timebodygyroscopeaveragex**
 
  Size: 12
 
@@ -276,7 +276,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of jerk
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic movement reading in X direction 
 
-* **timebodygyroscopeaverageY**
+* **timebodygyroscopeaveragey**
 
  Size: 12
 
@@ -286,7 +286,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic movemen
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic movement reading in Y direction 
 
-* **timebodygyroscopeaverageZ**
+* **timebodygyroscopeaveragez**
 
  Size: 12
 
@@ -296,7 +296,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic movemen
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic movement reading in Z direction 
 
-* **timebodygyroscopestandarddeviationX**
+* **timebodygyroscopestandarddeviationx**
 
  Size: 12
 
@@ -306,7 +306,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic movemen
 
 Time Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in X direction 
 
-* **timebodygyroscopestandarddeviationY**
+* **timebodygyroscopestandarddeviationy**
 
  Size: 12
 
@@ -316,7 +316,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of gyro
 
 Time Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in Y direction 
 
-* **timebodygyroscopestandarddeviationZ**
+* **timebodygyroscopestandarddeviationz**
 
  Size: 12
 
@@ -326,7 +326,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of gyro
 
 Time Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in Z direction 
 
-* **timebodygyroscopejerkaverageX**
+* **timebodygyroscopejerkaveragex**
 
  Size: 12
 
@@ -336,7 +336,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of gyro
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic jerky movement reading in X direction 
 
-* **timebodygyroscopejerkaverageY**
+* **timebodygyroscopejerkaveragey**
 
  Size: 12
 
@@ -346,7 +346,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic jerky m
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic jerky movement reading in Y direction 
 
-* **timebodygyroscopejerkaverageZ**
+* **timebodygyroscopejerkaveragez**
 
  Size: 12
 
@@ -356,7 +356,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic jerky m
 
 Time Domain measurement of smartphone wearer's body's average gyroscopic jerky movement reading in Z direction 
 
-* **timebodygyroscopejerkstandarddeviationX**
+* **timebodygyroscopejerkstandarddeviationx**
 
  Size: 12
 
@@ -366,7 +366,7 @@ Time Domain measurement of smartphone wearer's body's average gyroscopic jerky m
 
 Time Domain measurement of smartphone wearer's body's standard deviation of gyroscopic jerky movement reading in X direction 
 
-* **timebodygyroscopejerkstandarddeviationY**
+* **timebodygyroscopejerkstandarddeviationy**
 
  Size: 12
 
@@ -376,7 +376,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of gyro
 
 Time Domain measurement of smartphone wearer's body's standard deviation of gyroscopic jerky movement reading in Y direction 
 
-* **timebodygyroscopejerkstandarddeviationZ**
+* **timebodygyroscopejerkstandarddeviationz**
 
  Size: 12
 
@@ -486,7 +486,7 @@ Time Domain measurement of smartphone wearer's body's Average of Eclidean norm m
 
 Time Domain measurement of smartphone wearer's body's standard deviation of Eclidean norm magnitude of gyroscopic jerky movement reading 
 
-* **frequencydomainbodyaccelerationaverageX**
+* **frequencydomainbodyaccelerationaveragex**
 
  Size: 12
 
@@ -496,7 +496,7 @@ Time Domain measurement of smartphone wearer's body's standard deviation of Ecli
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration in X direction 
 
-* **frequencydomainbodyaccelerationaverageY**
+* **frequencydomainbodyaccelerationaveragey**
 
  Size: 12
 
@@ -506,7 +506,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration in Y direction 
 
-* **frequencydomainbodyaccelerationaverageZ**
+* **frequencydomainbodyaccelerationaveragez**
 
  Size: 12
 
@@ -516,7 +516,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration in Z direction 
 
-* **frequencydomainbodyaccelerationstandarddeviationX**
+* **frequencydomainbodyaccelerationstandarddeviationx**
 
  Size: 12
 
@@ -526,7 +526,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of acceleration in X direction 
 
-* **frequencydomainbodyaccelerationstandarddeviationY**
+* **frequencydomainbodyaccelerationstandarddeviationy**
 
  Size: 12
 
@@ -536,7 +536,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of acceleration in Y direction 
 
-* **frequencydomainbodyaccelerationstandarddeviationZ**
+* **frequencydomainbodyaccelerationstandarddeviationz**
 
  Size: 12
 
@@ -546,7 +546,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of acceleration in Z direction 
 
-* **frequencydomainbodyaccelerationaveragefrequencyX**
+* **frequencydomainbodyaccelerationaveragefrequencyx**
 
  Size: 12
 
@@ -556,7 +556,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration by frequency in X direction 
 
-* **frequencydomainbodyaccelerationaveragefrequencyY**
+* **frequencydomainbodyaccelerationaveragefrequencyy**
 
  Size: 12
 
@@ -566,7 +566,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration by frequency in Y direction 
 
-* **frequencydomainbodyaccelerationaveragefrequencyZ**
+* **frequencydomainbodyaccelerationaveragefrequencyz**
 
  Size: 12
 
@@ -576,7 +576,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's average acceleration by frequency in Z direction 
 
-* **frequencydomainbodyaccelerationjerkaverageX**
+* **frequencydomainbodyaccelerationjerkaveragex**
 
  Size: 12
 
@@ -586,7 +586,7 @@ Frequency Domain measurement of smartphone wearer's body's average acceleration 
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration in X direction 
 
-* **frequencydomainbodyaccelerationjerkaverageY**
+* **frequencydomainbodyaccelerationjerkaveragey**
 
  Size: 12
 
@@ -596,7 +596,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration in Y direction 
 
-* **frequencydomainbodyaccelerationjerkaverageZ**
+* **frequencydomainbodyaccelerationjerkaveragez**
 
  Size: 12
 
@@ -606,7 +606,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration in Z direction 
 
-* **frequencydomainbodyaccelerationjerkstandarddeviationX**
+* **frequencydomainbodyaccelerationjerkstandarddeviationx**
 
  Size: 12
 
@@ -616,7 +616,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in X direction 
 
-* **frequencydomainbodyaccelerationjerkstandarddeviationY**
+* **frequencydomainbodyaccelerationjerkstandarddeviationy**
 
  Size: 12
 
@@ -626,7 +626,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in Y direction 
 
-* **frequencydomainbodyaccelerationjerkstandarddeviationZ**
+* **frequencydomainbodyaccelerationjerkstandarddeviationz**
 
  Size: 12
 
@@ -636,7 +636,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of jerky acceleration in Z direction 
 
-* **frequencydomainbodyaccelerationjerkaveragefrequencyX**
+* **frequencydomainbodyaccelerationjerkaveragefrequencyx**
 
  Size: 12
 
@@ -646,7 +646,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration by frequency in X direction 
 
-* **frequencydomainbodyaccelerationjerkaveragefrequencyY**
+* **frequencydomainbodyaccelerationjerkaveragefrequencyy**
 
  Size: 12
 
@@ -656,7 +656,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration by frequency in Y direction 
 
-* **frequencydomainbodyaccelerationjerkaveragefrequencyZ**
+* **frequencydomainbodyaccelerationjerkaveragefrequencyz**
 
  Size: 12
 
@@ -666,7 +666,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's average jerky acceleration by frequency in Z direction 
 
-* **frequencydomainbodygyroscopeaverageX**
+* **frequencydomainbodygyroscopeaveragex**
 
  Size: 12
 
@@ -676,7 +676,7 @@ Frequency Domain measurement of smartphone wearer's body's average jerky acceler
 
 Frequency Domain measurement of smartphone wearer's body's average gyroscopic movement reading in X direction 
 
-* **frequencydomainbodygyroscopeaverageY**
+* **frequencydomainbodygyroscopeaveragey**
 
  Size: 12
 
@@ -686,7 +686,7 @@ Frequency Domain measurement of smartphone wearer's body's average gyroscopic mo
 
 Frequency Domain measurement of smartphone wearer's body's average gyroscopic movement reading in Y direction 
 
-* **frequencydomainbodygyroscopeaverageZ**
+* **frequencydomainbodygyroscopeaveragez**
 
  Size: 12
 
@@ -696,7 +696,7 @@ Frequency Domain measurement of smartphone wearer's body's average gyroscopic mo
 
 Frequency Domain measurement of smartphone wearer's body's average gyroscopic movement reading in Z direction 
 
-* **frequencydomainbodygyroscopestandarddeviationX**
+* **frequencydomainbodygyroscopestandarddeviationx**
 
  Size: 12
 
@@ -706,7 +706,7 @@ Frequency Domain measurement of smartphone wearer's body's average gyroscopic mo
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in X direction 
 
-* **frequencydomainbodygyroscopestandarddeviationY**
+* **frequencydomainbodygyroscopestandarddeviationy**
 
  Size: 12
 
@@ -716,7 +716,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in Y direction 
 
-* **frequencydomainbodygyroscopestandarddeviationZ**
+* **frequencydomainbodygyroscopestandarddeviationz**
 
  Size: 12
 
@@ -726,7 +726,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's standard deviation of gyroscopic movement reading in Z direction 
 
-* **frequencydomainbodygyroscopeaveragefrequencyX**
+* **frequencydomainbodygyroscopeaveragefrequencyx**
 
  Size: 12
 
@@ -736,7 +736,7 @@ Frequency Domain measurement of smartphone wearer's body's standard deviation of
 
 Frequency Domain measurement of smartphone wearer's body's average gyroscopic movement reading by frequency in X direction 
 
-* **frequencydomainbodygyroscopeaveragefrequencyY**
+* **frequencydomainbodygyroscopeaveragefrequencyy**
 
  Size: 12
 
@@ -746,7 +746,7 @@ Frequency Domain measurement of smartphone wearer's body's average gyroscopic mo
 
 Frequency Domain measurement of smartphone wearer's body's average gyroscopic movement reading by frequency in Y direction 
 
-* **frequencydomainbodygyroscopeaveragefrequencyZ**
+* **frequencydomainbodygyroscopeaveragefrequencyz**
 
  Size: 12
 
